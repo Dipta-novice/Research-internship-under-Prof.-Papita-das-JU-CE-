@@ -1,0 +1,9 @@
+Tartazene is food colouring dye that is harmful for health.
+Prof Abhishek dhar is a experimental chemist who is working on chemical experiments to adsorb this thing with carbon nanotube.
+My job for this research paper is:
+1.Generate synthetic data with GAN
+2.ANN regression model to predict % of removal given dependable parameters
+3.Applying genetic algorithm to extract the best removed condition
+4.RSM optimization
+5.Anova test,t test
+6.Comparing various Chemical isotherms
